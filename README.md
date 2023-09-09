@@ -1,6 +1,9 @@
 <h1>👋 Hi, I’m Park Kyu Min</h1>
 - 💻I'm Full stack developer
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyumin7487)](https://github.com/kyumin7487)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gyumin7487)](https://solved.ac/gyumin7487)
+
 ## 💪 skills
 [![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/)
 [![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/)
