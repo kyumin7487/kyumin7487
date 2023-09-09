@@ -14,3 +14,14 @@
 ## 🛠️ Tool
 ![InteliJ](https://img.shields.io/badge/InteliJ%20IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge)
 ![VScode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+
+## 🔗 Contact Me
+
+---
+
+- ✉️ **E-Mail (Click to Send)**
+    - [**Personal**](mailto:gim605001@gmail.com)
+    - [**Business**](mailto:kyumin7487@gmail.com)
+    - [**DGSW Mail**](mailto:gyumin7487@dgsw.hs.kr)
+- 📱 **SNS**
+    - [**Instagram**](https://www.instagram.com/k_min_120/)
