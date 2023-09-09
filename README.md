@@ -17,6 +17,7 @@
 ## 🛠️ Tool
 ![InteliJ](https://img.shields.io/badge/InteliJ%20IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge)
 ![VScode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+[![Figma](https://img.shields.io/badge/Figma-e630f0?logo=figma&logoColor=white&style=for-the-badge)](https://figma.com/)
 
 ## 🔗 Contact Me
 
