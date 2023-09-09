@@ -13,7 +13,6 @@
 [![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)](https://springboot.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://python.org/)
 [![C/C++](https://img.shields.io/badge/C/C++-0356fc?logo=c&logoColor=white&style=for-the-badge)](https://en.cppreference.com/w/)
-[![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white&style=for-the-badge)](https://developer.apple.com/swift/)
 
 ## 🛠️ Tool
 ![InteliJ](https://img.shields.io/badge/InteliJ%20IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge)
