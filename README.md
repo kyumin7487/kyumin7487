@@ -1,4 +1,4 @@
-<h1>👋 꺠달음을 원하는 개발자 박규민입니다</h1>
+<h1>👋 깨달음을 원하는 개발자 박규민입니다</h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyumin7487)](https://github.com/kyumin7487)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gyumin7487)](https://solved.ac/gyumin7487)
