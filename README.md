@@ -1,4 +1,4 @@
-<h1>Hi👋, I'm Kyumin </h1>
+<h1>Hi<img src="./assets/Hi.gif" width="30">, I'm Kyumin </h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyumin7487)](https://github.com/kyumin7487)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gyumin7487)](https://solved.ac/gyumin7487)
