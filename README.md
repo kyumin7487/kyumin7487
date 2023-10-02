@@ -29,3 +29,4 @@
     - [**DGSW Mail**](mailto:gyumin7487@dgsw.hs.kr)
 - 📱 **SNS**
     - [**Instagram**](https://www.instagram.com/k_min_120/)
+
