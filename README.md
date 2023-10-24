@@ -17,6 +17,7 @@
 ![InteliJ](https://img.shields.io/badge/InteliJ%20IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge)
 ![VScode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 [![Figma](https://img.shields.io/badge/Figma-e630f0?logo=figma&logoColor=white&style=for-the-badge)](https://figma.com/)
+<img src="https://img.shields.io/badge/github-%23181717?style=flat-square&logo=github&logoColor=white"/>
 
 ## 🔗 Contact Me
 
@@ -28,3 +29,18 @@
     - [**DGSW Mail**](mailto:gyumin7487@dgsw.hs.kr)
 - 📱 **SNS**
     - [**Instagram**](https://www.instagram.com/k_min_120/)
+
+<img src="https://github.com/xixn/xixn/blob/main/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966.gif" width="30" height="30"></img>
+<img src="https://github.com/xixn/xixn/blob/main/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966.gif" width="30" height="30"></img>
+<img src="ㅋㅋㅋㅋ.gif" width="30" height="30"></img>
+<img src="ㅋㅋ.gif" width="30" height="30"></img>
+<img src="ㅋㅋㅋ.gif" width="30" height="30"></img>
+<img src="1.gif" width="30" height="30"></img>
+<img src="11.gif" width="30" height="30"></img>
+<img src="111.gif" width="30" height="30"></img>
+<img src="1111.gif" width="30" height="30"></img>
+<img src="11111.gif" width="30" height="30"></img>
+<img src="111111.gif" width="30" height="30"></img>
+<img src="1111111.gif" width="30" height="30"></img>
+<img src="11111111.gif" width="30" height="30"></img> 
+<img src="853960629086191616.gif" width="30" height="30"></img> 
