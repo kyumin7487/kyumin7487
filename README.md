@@ -1,7 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Hi%20there%20👋&fontSize=60&fontAlignY=35)
+## Hi, I'm KyuMin Park (박규민) 🧑‍💻🎸
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gyumin7487)](https://solved.ac/gyumin7487)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyumin7487&langs_count=10&layout=compact)]()
+<br>
+
+- My portfolio : [Click here!]([https://velog.velcdn.com/images/whitebear/post/d7e4c24d-9758-47e3-a641-44ba493e0755/image.pdf](https://gilded-emmental-851.notion.site/cdf25b3accb64e51a5be0b25e8db030f?pvs=4))
 
 ## 💪 skills
 [![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/)
