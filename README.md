@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Hi%20there%20👋&fontSize=60&fontAlignY=35)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyumin7487)](https://github.com/kyumin7487)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gyumin7487)](https://solved.ac/gyumin7487)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyumin7487&langs_count=10&layout=compact)]()
 
