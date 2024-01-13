@@ -29,6 +29,10 @@
 [![Webstorm](https://img.shields.io/badge/webstorm-61BAFB?logo=webstorm&logoColor=white&style=for-the-badge)](https://www.jetbrains.com/ko-kr/webstorm/)
 [![GitKraken](https://img.shields.io/badge/Gitkraken-179287?logo=gitkraken&logoColor=white&style=for-the-badge)](https://www.gitkraken.com/)
 [![Figma](https://img.shields.io/badge/Figma-e630f0?logo=figma&logoColor=white&style=for-the-badge)](https://figma.com/)
+<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+<img src="https://img.shields.io/badge/IJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
 
 ## 🔗 Contact Me
 
