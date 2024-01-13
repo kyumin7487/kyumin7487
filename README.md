@@ -22,6 +22,13 @@
 [![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)](https://www.typescriptlang.org/)
 
+## 🛠️ Tools
+
+[![PyCharm](https://img.shields.io/badge/pycharm-b4f70a?logo=pycharm&logoColor=black&style=for-the-badge)](https://www.jetbrains.com/ko-kr/pycharm/)
+[![Webstorm](https://img.shields.io/badge/webstorm-61BAFB?logo=webstorm&logoColor=white&style=for-the-badge)](https://www.jetbrains.com/ko-kr/webstorm/)
+[![GitKraken](https://img.shields.io/badge/Gitkraken-179287?logo=gitkraken&logoColor=white&style=for-the-badge)](https://www.gitkraken.com/)
+[![Figma](https://img.shields.io/badge/Figma-e630f0?logo=figma&logoColor=white&style=for-the-badge)](https://figma.com/)
+
 ## 🔗 Contact Me
 
 - ✉️ **E-Mail (Click to Send)**
