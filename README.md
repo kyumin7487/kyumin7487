@@ -39,3 +39,8 @@
     - [**DGSW Mail**](mailto:gyumin7487@dgsw.hs.kr)
 - 📱 **SNS**
     - [**Instagram**](https://www.instagram.com/k_min_120/)
+ 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{kyumin7487}?pet-id=1" width="1000" height="120"/>
+</a>
