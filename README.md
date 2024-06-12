@@ -42,5 +42,11 @@
  
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{kyumin7487}?pet-id=1" width="1000" height="120"/>
+ <a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/kyumin7487"
+  width="1000"
+  height="130"
+/>
+</a>
 </a>
