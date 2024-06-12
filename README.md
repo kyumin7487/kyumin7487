@@ -7,7 +7,7 @@
 - I'm interested in Front-End development.
 - I'm a student in <a href="http://www.dgswhs.kr/">Daegu Software Meister High School</a>.
 ---
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gyumin7487)](https://solved.ac/gyumin7487)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyumin7487&show_icons=true&theme=white)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyumin7487&theme=swift&langs_count=10&layout=compact)]()
 
 ## 👹 My **Skills**
