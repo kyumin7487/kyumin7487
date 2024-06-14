@@ -12,8 +12,8 @@
  <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/kyumin7487"
-  width="300"
-  height="130"
+  width="500"
+  height="150"
 />
 </a>
 </a>
