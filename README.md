@@ -7,8 +7,16 @@
 - I'm interested in Front-End development.
 - I'm a student in <a href="http://www.dgswhs.kr/">Daegu Software Meister High School</a>.
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyumin7487&show_icons=true&theme=white)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyumin7487&theme=swift&langs_count=10&layout=compact)]()
+<a href="https://github.com/devxb/gitanimals">
+ <a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/kyumin7487"
+  width="300"
+  height="130"
+/>
+</a>
+</a>
 
 ## 👹 My **Skills**
 
@@ -39,14 +47,3 @@
     - [**DGSW Mail**](mailto:gyumin7487@dgsw.hs.kr)
 - 📱 **SNS**
     - [**Instagram**](https://www.instagram.com/k_min_120/)
- 
-
-<a href="https://github.com/devxb/gitanimals">
- <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/kyumin7487"
-  width="1000"
-  height="130"
-/>
-</a>
-</a>
