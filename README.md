@@ -9,12 +9,13 @@
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyumin7487&theme=swift&langs_count=10&layout=compact)]()
 <a href="https://github.com/devxb/gitanimals">
- <a href="https://github.com/devxb/gitanimals">
+<a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/kyumin7487"
   width="500"
   height="150"
 />
+</a>
 </a>
 </a>
 
